@@ -626,7 +626,7 @@ import {
         caption: ownermenu
       }, { quoted:fcontact });
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TuKYU4P.jpeg' },
         caption: groupmenu
       }, { quoted:fcontact });
       } else if (choice === "4") {
