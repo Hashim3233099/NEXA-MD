@@ -1,4 +1,4 @@
-# `NEXA-V1-MD`
+# `Alfarezi-V1-MD`
 <br>
 <br>
 
@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20NEXA-V1-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20NEXA%20AI)
 <p align="center">
   
->NEXA-V1-MD is based on :
+Alfareziz-V1-MD is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
@@ -15,7 +15,7 @@
 ## 🌟 `Bot Intro and Features`
 [![NEXA-MD](https://i.ibb.co/hVFKKb1/2024041510172390.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **About NEXA-V1**
+### ℹ️ **About Alfarezi-V1**
 NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [NEXA Henry](https://github.com/henrygokugt99). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
@@ -31,7 +31,7 @@ NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [NEXA Henry](https
 ![Bot Repository License](https://img.shields.io/github/license/henrygokugt99/NEXA-MD?style=for-the-badge)
 
 ####  
-*NEXA-V1* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
+*Alfarezi-V1* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
 
 ***
 
