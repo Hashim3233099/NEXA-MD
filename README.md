@@ -16,7 +16,7 @@ Alfareziz-V1-MD is based on :
 [![NEXA-MD](https://i.ibb.co/hVFKKb1/2024041510172390.jpg)](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **About Alfarezi-V1**
-NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [NEXA Henry](https://github.com/henrygokugt99). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [Alfarezi md](https://github.com/henrygokugt99). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
@@ -36,7 +36,7 @@ NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [NEXA Henry](https
 ***
 
 ## ⭐ `Star This Repo`
-If you find NEXA-V1-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find Alfarezi-V1-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -57,7 +57,7 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/henrygokugt99/NEXA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/henrygokugt9Alfareziez-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -176,7 +176,7 @@ NOW Deploy👇
 ## `Main Dev` 
 <a href="https://github.com/abrahamdw882"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
   
-**NEXA-V1** - By `abrahamdw882`
+*Alfarezia-V1** - By `abrahamdw882`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
